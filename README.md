@@ -8,7 +8,7 @@ A lightweight and minimalistic minecraft shader, compatible with distant horizon
 3. Refresh your shaders tab in minecraft.
 
 ## Known Issues
-Please report any new issues in the [here](https://github.com/rccts/sashader/issues/new).
+Please report any new issues [here](https://github.com/rccts/sashader/issues/new).
 - Artificial light sources do not give accurate mapping.
 - No object shadows.
 - Item shadows appear as completely black.
