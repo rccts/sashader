@@ -16,3 +16,4 @@ Please report any new issues [here](https://github.com/rccts/sashader/issues/new
 - Transparant textures have somewhat innacurate lightmapping.
 - No support for texture packs with normals.
 - Day/night transition is not seamless.
+- Not fully compatible with modded items.
