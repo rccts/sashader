@@ -1,5 +1,5 @@
 # Sashader
-A lightweight and minimalistic minecraft shader, compatible with distant horizons.
+A lightweight and minimalistic minecraft shader, compatible with distant horizons (a pert project for me to learn GSL).
 **This project is actively being worked on.** If you wish to keep up with new developments, please watch this repo, as updates occur frequently.
 
 ## Instructions
